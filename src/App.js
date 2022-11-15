@@ -1,9 +1,9 @@
 import "./styles.css";
-import Parent from "./parent";
+import ConditionalRendering from "./ConditionalRendering";
 export default function App() {
   return (
     <div className="App">
-      <Parent />
+      <ConditionalRendering />
     </div>
   );
 }
